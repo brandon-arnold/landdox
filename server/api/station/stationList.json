@@ -1,0 +1,162 @@
+{
+  "stnids": [{
+    "id": "042",
+    "name": "Nueces Delta 2"
+  },
+  {
+    "id": "171",
+    "name": "National Park Service - Bird Island"
+  },
+  {
+    "id": "243",
+    "name": "Oso Creek Water Level Station #2"
+  },
+  {
+    "id": "043",
+    "name": "Nueces Delta 3"
+  },
+  {
+    "id": "180",
+    "name": "Buoy 11, Houston/Galveston Ports"
+  },
+  {
+    "id": "244",
+    "name": "Oso Creek Water Level Station #3"
+  },
+  {
+    "id": "069",
+    "name": "Nueces Delta Weather Station"
+  },
+  {
+    "id": "185",
+    "name": "Nueces Bay"
+  },
+  {
+    "id": "256",
+    "name": "Corpus Christi Meteorological Station #7"
+  },
+  {
+    "id": "072",
+    "name": "SALT01 "
+  },
+  {
+    "id": "190",
+    "name": "USCG Sabine CU "
+  },
+  {
+    "id": "259",
+    "name": "Bob Hall Pier Current Meter Across Shore"
+  },
+  {
+    "id": "074",
+    "name": "SALT03"
+  },
+  {
+    "id": "191",
+    "name": "Port of Beaumont CU"
+  },
+  {
+    "id": "260",
+    "name": "Bob Hall Pier Current Meter Along Shore"
+  },
+  {
+    "id": "075",
+    "name": "SALT04"
+  },
+  {
+    "id": "192",
+    "name": "Sabine Front Range CU"
+  },
+  {
+    "id": "275",
+    "name": "Corpus Christi Meteorological Rodd Field"
+  },
+  {
+    "id": "076",
+    "name": "SALT05"
+  },
+  {
+    "id": "193",
+    "name": "West Port Arthur Bridge CU"
+  },
+  {
+    "id": "276",
+    "name": "Corpus Christi Meteorological Carmel"
+  },
+  {
+    "id": "079",
+    "name": "SALT08"
+  },
+  {
+    "id": "194",
+    "name": "Rainbow Bridge CU "
+  },
+  {
+    "id": "277",
+    "name": "Corpus Christi Meteorological Cedar Pass"
+  },
+  {
+    "id": "127",
+    "name": "GBRA Station #1"
+  },
+  {
+    "id": "223",
+    "name": "Port Arthur CU "
+  },
+  {
+    "id": "278",
+    "name": "Corpus Christi Meteorological Del-Mar East"
+  },
+  {
+    "id": "130",
+    "name": "GBRA Station #2"
+  },
+  {
+    "id": "236",
+    "name": "Corpus Christi Meteorological TAMUCC"
+  },
+  {
+    "id": "279",
+    "name": "Corpus Christi Meteorological Del-Mar West"
+  },
+  {
+    "id": "138",
+    "name": "Packery Current Meter #2"
+  },
+  {
+    "id": "239",
+    "name": "Nueces River Water Quality Station #1"
+  },
+  {
+    "id": "280",
+    "name": "Fred Hartman Bridge"
+  },
+  {
+    "id": "150",
+    "name": "JFK Bridge Current Meter #1"
+  },
+  {
+    "id": "240",
+    "name": "Nueces River Water Quality Station #2"
+  },
+  {
+    "id": "998",
+    "name": "Water Level Test Station"
+  },
+  {
+    "id": "168",
+    "name": "Buoy 34, Sabine Ship Channel Entrance  "
+  },
+  {
+    "id": "241",
+    "name": "Nueces River Water Quality Station #3  "
+  },
+  {
+    "id": "170",
+    "name": "National Park Service - Baffin Bay"
+  },
+  {
+    "id": "242",
+    "name": "Oso Creek Water Level Station #1 "
+  }]
+}
